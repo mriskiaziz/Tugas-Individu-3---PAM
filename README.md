@@ -2,7 +2,7 @@
 
 ![](Screenshots/Home-dan-Hasil.png)
 
-### Instalasi
+## Instalasi
 
 1.  Dengan File APK <br>
     dapat diinstal dengan mendownload file apk yang tertera pada folder file_apk, <br>
@@ -14,7 +14,7 @@
     -> cd ReactNative <br>
     -> npm start <br>
 
-### Deskripsi Aplikasi
+## Deskripsi Aplikasi
 
 • Aplikasi terdiri dari dua halaman yaitu Home dan Hasil Pencarian <br>
 • Home digunakan untuk mengisikan jadwal penerbangan apa yang ingin di cari, <br>
@@ -22,7 +22,7 @@ dengan memasukkan inputan lokasi keberangkatan, lokasi tujuan dan tanggal penerb
 • Hasil Pencarian untuk menampilkan penerbangan yang sesuai dengan inputan yang dimasukkan, <br>
 pada halaman ini semua data yang mirip dengan inputan akan di tampilkan <br>
 
-### Cara Kerja
+## Cara Kerja
 
 1.  Tampilan Awal Akan terlihat seperti pada gambar berikut ini :
     ![](Screenshots/Home.png) <br>
@@ -33,7 +33,7 @@ pada halaman ini semua data yang mirip dengan inputan akan di tampilkan <br>
     ![](Screenshots/Hasil.png) <br>
     Pada halaman ini akan menampilkan data-data penerbangan sesuai dengan data yang diinputkan
 
-### Pembuatan Aplikasi
+## Pembuatan Aplikasi
 
 1. Langkah awal kita pecah halaman kedalam 3 file yaitu App.js, Home.js dan hasilPencarian.js <br>
    App.js => secara garis besar akan berisikan navigator untuk berpindah antara halaman home.js dan hasilPencarian.js <br>
@@ -49,7 +49,7 @@ pada halaman ini semua data yang mirip dengan inputan akan di tampilkan <br>
    Pastikan props yang dikirim dapat diterima halaman ini <br>
    Lakukan pengecekan menggunakan if, data yang sesuai dengan inputan, lalu tampilkan data tersebut <br>
 
-### Sumber
+## Sumber
 
 1. https://reactnative.dev/
 2. https://reactnavigation.org/
